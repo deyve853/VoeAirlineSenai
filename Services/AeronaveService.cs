@@ -7,7 +7,6 @@ namespace VoeAirlines.Services;
 public class AeronaveService
 {
 
-
     //propriedade para injeção de dependência
     private readonly VoeAirlinesContext _context;
 
